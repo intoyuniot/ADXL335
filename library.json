@@ -1,0 +1,16 @@
+{
+    "name": "ADXL335",
+    "version": "1.0.0",
+    "keywords": "ADXL335",
+    "description": "ADXL335加速度计库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/ADXL335.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
